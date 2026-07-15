@@ -3,6 +3,7 @@
 }
 
 body {
+    color: white;
     min-height: 100%;
     margin: 0;
     background-image: url("images/webBack.png");
@@ -45,9 +46,22 @@ a {
     text-decoration: none;
 }
 
+ul {
+    list-style: none;
+}
+
+.itemlist {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
 .itemlist img {
-    width: 64px;
-    height: 64px;
+    width: 128px;
+    height: 128px;
+}
+
+.wideListItem {
+    grid-column: 1/3;
+    justify-self: center;
 }
 
 .icon {
