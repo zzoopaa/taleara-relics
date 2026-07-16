@@ -1,5 +1,5 @@
 :root {
-    --headerfooterOpacity: 1;
+    --headerfooterOpacity: 0.8;
     --contentOpacity: 0.6;
 }
 
@@ -17,18 +17,65 @@ body {
 }
 
 .header {
-    background-color: rgba(77, 62, 38, var(--headerfooterOpacity));
+    /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
+    background-image: url(./images/dirtbackground.webp);
+    background-size: cover;
     display: flex;
     justify-content: center;
-    width: 100%;
-    padding: 1vw 0;
+    align-items: center;
+    padding: 0.5em 0;
     font-size: x-large;
+    height: 6em;
 }
-.header img {
-    align-self: center;
-    width: 5em;
+.header a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 100%;
+    max-width:100%;
+}
+.header a img {
+    display: block;
+    height: 100%;
+    width: 50%;
+}
+.header nav {
+    position: absolute;
+    height: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.header nav a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#leftnav {
+    left: 1em;
     height: 5em;
-    padding: 0 2em;
+    width: auto;
+}
+#leftnav a {
+    height: inherit;
+}
+#leftnav img {
+    height: inherit;
+    width: 100%;
+    object-fit: contain;
+}
+#rightnav {
+    display: grid;
+    grid-template: 1fr 1fr / 1fr 1fr;
+    right: 1em;
+}
+#rightnav img {
+    max-height: 5vh;
+    width: auto;
+}
+.header nav img:hover {
+    transition: background-color 0.3s ease-in-out;
+    background-color: #78613c;
 }
 .content {
     margin: 0;
@@ -42,12 +89,15 @@ body {
 }
 
 .footer {
-    background-color: rgba(77, 62, 38, var(--headerfooterOpacity));
+    /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
+    background-image: url(./images/dirtbackground.webp);
+    background-size: cover;
     width: 100%;
 }
 
 .footer nav {
     display: flex;
+    height: 4em;
 }
 
 .footer nav > * {
@@ -62,7 +112,7 @@ body {
     padding: 0.5em;
 }
 
-nav a:hover {
+.footer nav a:hover {
     transition: background-color 0.3s ease-in-out;
     background-color: #78613c;
 }
@@ -97,7 +147,7 @@ h3 {
     grid-template-columns: 1fr 1fr;
     justify-content: space-around;
     padding: 10px;
-    border-color: black;
+    border-color: #2b1700;
     border-style: solid;
     margin: 0.5em;
 }
@@ -157,6 +207,18 @@ h3 {
     align-content: center;
 }
 .flexrow img {
+    max-height: 100%;
+    max-width: 100%;
+}
+
+#imageGallery {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+#imageGallery > * {
+    padding: 1em;
+}
+#imageGallery img {
     max-height: 100%;
     max-width: 100%;
 }
