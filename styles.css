@@ -80,9 +80,9 @@ body {
 }
 .content {
     margin: 0;
-    padding: 1em 2em 6em 2em;
+    padding: 1em 2em 4em 2em;
     min-height: 100vh;
-    min-width: 40vw;
+    min-width: 0;
     max-width: 60vw;
     margin: 0 auto;
     text-align: center;
@@ -94,12 +94,14 @@ body {
     background-image: url(./images/woodcolored.webp);
     background-repeat: repeat;
     background-size: 34%;
+    min-height: 4em;
+    height: auto;
     width: 100%;
 }
 
 .footer nav {
     display: flex;
-    height: 4em;
+    height: 10vh;
 }
 
 .footer nav > * {
@@ -110,8 +112,15 @@ body {
 }
 
 .footer img {
-    height: 2em;
     padding: 0.5em;
+    object-fit: contain;
+    height: 70%;
+}
+.footer p {
+    display: flex;
+    align-self: center;
+    height: 100%;
+    font-size: small;
 }
 
 .footer nav a:hover {
@@ -124,7 +133,7 @@ a {
     text-decoration: none;
 }
 p a {
-    color: darkblue;
+    color: goldenrod;
     text-decoration: none;
 }
 
@@ -138,11 +147,14 @@ h2 {
 h3 {
     font-size: large;
 }
-
+h5 {
+    margin: 1em 0 0 0;
+}
 .itemlist {
     display: grid;
     grid-template-columns: 1fr 1fr;
     padding:0;
+    min-width: none;
 }
 .itemlist li a {
     display: flex;
@@ -153,6 +165,7 @@ h3 {
     border-style: solid;
     margin: 0.5em;
 }
+
 .itemlist a:hover {
     transition: background-color 0.1s ease-in;
     background-color: rgb(140 209 71 / 0.4);
@@ -201,10 +214,11 @@ h3 {
 }
 .flexrow {
     display: grid;
-    grid-template-columns: 3fr 4fr;
+    grid-template-columns: 4fr 3fr;
     padding: 0;
     justify-content: center;
     align-items: center;
+    text-align: left;
 }
 .flexrow > * {
     padding: 0 15px;
@@ -272,4 +286,64 @@ h3 {
 }
 #infoul {
     padding: 0 2em;
+}
+
+@media (max-width: 1000px) { /*Mobile Settings*/
+    .content {
+        max-width: 100%;
+    }
+    .itemlist {
+        display: flex;
+        flex-direction: column;
+    }
+    .footer span {
+        display: none;
+    }
+    .footer p {
+        width: 20%;
+    }
+    .info {
+        padding: 0 2em 0 2em;
+    }
+    .header {
+        background-size: 60%;
+        display: flex;
+        flex-direction: column;
+    }
+    .footer {
+        background-size: 60%;
+    }
+    .header a img {
+        object-fit: contain;
+        margin: 0.5em;
+        width: 85%
+    }
+    #rightnav {
+        position: relative;
+        display: flex;
+        max-height: 30%;
+    }
+    #leftnav {
+        display:none;
+    }
+    .relicPage {
+        display: flex;
+        flex-direction: column;
+    }
+    .relicPage > .imageCol {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .imageCol > div {
+        padding: 1em;
+    }
+    
+}
+@media (max-width: 550px){
+    .wideListItem a {
+        display: grid !important;
+        grid-template-rows: 1fr 1fr;
+        grid-template-columns: 1fr 1fr;
+    }
 }
