@@ -2,7 +2,9 @@
     --headerfooterOpacity: 0.8;
     --contentOpacity: 0.6;
 }
-
+/** {
+    outline: 1px solid red;
+} FOR DEBUGGING*/ 
 body {
     color: white;
     min-height: 100%;
@@ -88,7 +90,11 @@ body {
     text-align: center;
     background-color: rgba(77, 62, 38, var(--contentOpacity))
 }
-
+.content img {
+    min-width: none;
+    min-height: none;
+    max-width: 100%;
+}
 .footer {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
     background-image: url(./images/woodcolored.webp);
@@ -290,6 +296,7 @@ h5 {
 
 @media (max-width: 1000px) { /*Mobile Settings*/
     .content {
+        min-width: none;
         max-width: 100%;
     }
     .itemlist {
@@ -338,6 +345,10 @@ h5 {
     .imageCol > div {
         padding: 1em;
     }
+    .flexrow {
+        display: flex;
+        flex-direction: column;
+    }
     
 }
 @media (max-width: 550px){
@@ -345,5 +356,8 @@ h5 {
         display: grid !important;
         grid-template-rows: 1fr 1fr;
         grid-template-columns: 1fr 1fr;
+    }
+    .content {
+        padding: 5px;
     }
 }
