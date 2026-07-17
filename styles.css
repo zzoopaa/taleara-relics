@@ -294,10 +294,18 @@ h5 {
     padding: 0 2em;
 }
 
+.have {
+    color: green;
+}
+.need {
+    color: red;
+}
+
 @media (max-width: 1000px) { /*Mobile Settings*/
     .content {
         min-width: none;
         max-width: 100%;
+        padding: 1em;
     }
     .itemlist {
         display: flex;
@@ -345,11 +353,18 @@ h5 {
     .imageCol > div {
         padding: 1em;
     }
+    .imageCol {
+        padding: 0 !important;
+        order: 1;
+    }
     .flexrow {
         display: flex;
         flex-direction: column;
     }
-    
+    #imageGallery {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
 }
 @media (max-width: 550px){
     .wideListItem a {
