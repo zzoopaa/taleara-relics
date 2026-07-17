@@ -18,8 +18,9 @@ body {
 
 .header {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
-    background-image: url(./images/dirtbackground.webp);
-    background-size: cover;
+    background-image: url(./images/woodcolored.webp);
+    background-repeat: repeat;
+    background-size: 34%;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -90,8 +91,9 @@ body {
 
 .footer {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
-    background-image: url(./images/dirtbackground.webp);
-    background-size: cover;
+    background-image: url(./images/woodcolored.webp);
+    background-repeat: repeat;
+    background-size: 34%;
     width: 100%;
 }
 
@@ -201,9 +203,11 @@ h3 {
     display: grid;
     grid-template-columns: 3fr 4fr;
     padding: 0;
+    justify-content: center;
+    align-items: center;
 }
 .flexrow > * {
-    padding: 0;
+    padding: 0 15px;
     align-content: center;
 }
 .flexrow img {
@@ -215,12 +219,21 @@ h3 {
     display: grid;
     grid-template-columns: 1fr 1fr 1fr;
 }
-#imageGallery > * {
-    padding: 1em;
-}
 #imageGallery img {
     max-height: 100%;
     max-width: 100%;
+    justify-self: right;
+}
+
+#centeredrow {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    align-items: center;
+    max-height: 100%;
+}
+#centeredrow img {
+    max-height: 10em;
 }
 
 .recolorable {
@@ -256,4 +269,7 @@ h3 {
 .info {
     font-size: larger;
     padding: 0 6em 0 6em;
+}
+#infoul {
+    padding: 0 2em;
 }
