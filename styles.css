@@ -199,7 +199,10 @@ h5 {
     margin: 0;
     justify-self: center;
 }
-
+.itemlist li:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    justify-self: center;
+}
 .relicPage {
     display: grid;
     grid-template-columns: 3fr 2fr;
@@ -300,7 +303,28 @@ h5 {
 .need {
     color: red;
 }
-
+ol {
+    text-align: left;
+}
+ol a {
+    text-align: left;
+    color: goldenrod;
+}
+ol li {
+    margin: 0.5em;
+}
+#super a {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#super > div {
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    align-self: center;
+    height: auto;
+    object-fit: contain;
+}
 @media (max-width: 1000px) { /*Mobile Settings*/
     .content {
         min-width: none;
@@ -369,8 +393,9 @@ h5 {
 @media (max-width: 550px){
     .wideListItem a {
         display: grid !important;
-        grid-template-rows: 1fr 1fr;
-        grid-template-columns: 1fr 1fr;
+        place-items: center;
+        grid-template-rows: 2fr 3fr;
+        grid-template-columns: 3fr 5fr !important;
     }
     .content {
         padding: 5px;
