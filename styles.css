@@ -1,6 +1,6 @@
 :root {
     --headerfooterOpacity: 0.8;
-    --contentOpacity: 0.6;
+    --contentOpacity: 0.8;
 }
 /** {
     outline: 1px solid red;
@@ -88,7 +88,16 @@ body {
     max-width: 60vw;
     margin: 0 auto;
     text-align: center;
-    background-color: rgba(77, 62, 38, var(--contentOpacity))
+    background-color: rgba(77, 62, 38, var(--contentOpacity));
+    /*background: linear-gradient( 
+        90deg,
+        rgb(255 0 0 / 50%),
+        rgb(255 165 0 / 50%),
+        rgb(255 255 0 / 50%),
+        rgb(0 128 0 / 50%),
+        rgb(0 0 255 / 50%),
+        rgb(128 0 128 / 50%)
+    ); NOT INDED FOR ACTUAL USE*/ 
 }
 .content img {
     min-width: none;
@@ -170,20 +179,12 @@ h5 {
     border-color: #2b1700;
     border-style: solid;
     margin: 0.5em;
+    height: 80%;
 }
 
 .itemlist a:hover {
     transition: background-color 0.1s ease-in;
     background-color: rgb(140 209 71 / 0.4);
-    /*background: linear-gradient(
-        90deg,
-        rgb(255 0 0 / 50%),
-        rgb(255 165 0 / 50%),
-        rgb(255 255 0 / 50%),
-        rgb(0 128 0 / 50%),
-        rgb(0 0 255 / 50%),
-        rgb(128 0 128 / 50%)
-    );*/
 }
 .itemlist img {
     width: 128px;
