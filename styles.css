@@ -20,8 +20,9 @@ body {
 
 .header {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
-    background-image: url(./images/woodcolored.webp);
-    background-repeat: repeat;
+    /*background-image: url(./images/woodcolored.webp);
+    background-repeat: repeat;*/
+    background-color: rgba(15, 58, 58, var(--headerfooterOpacity));
     background-size: 34%;
     display: flex;
     justify-content: center;
@@ -88,7 +89,7 @@ body {
     max-width: 60vw;
     margin: 0 auto;
     text-align: center;
-    background-color: rgba(77, 62, 38, var(--contentOpacity));
+    background-color: rgba(15, 58, 58, var(--contentOpacity));
     /*background: linear-gradient( 
         90deg,
         rgb(255 0 0 / 50%),
@@ -106,8 +107,9 @@ body {
 }
 .footer {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
-    background-image: url(./images/woodcolored.webp);
-    background-repeat: repeat;
+    /*background-image: url(./images/woodcolored.webp);
+    background-repeat: repeat;*/
+    background-color: rgba(15, 58, 58, var(--headerfooterOpacity));
     background-size: 34%;
     min-height: 4em;
     height: auto;
@@ -246,7 +248,10 @@ h5 {
 #imageGallery img {
     max-height: 100%;
     max-width: 100%;
-    justify-self: right;
+    justify-self: center;
+}
+#imageGallery > div {
+    margin: 0.25em;
 }
 
 #centeredrow {
