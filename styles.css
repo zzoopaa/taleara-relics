@@ -18,7 +18,7 @@ body {
     font-family: Lato, Cochin, Georgia, Times, 'Times New Roman', serif;
 }
 
-.header {
+header {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
     /*background-image: url(./images/woodcolored.webp);
     background-repeat: repeat;*/
@@ -31,26 +31,26 @@ body {
     font-size: x-large;
     height: 6em;
 }
-.header a {
+header a {
     display: flex;
     align-items: center;
     justify-content: center;
     max-height: 100%;
     max-width:100%;
 }
-.header a img {
+header a img {
     display: block;
     height: 100%;
     width: 50%;
 }
-.header nav {
+header nav {
     position: absolute;
     height: 4em;
     display: flex;
     align-items: center;
     justify-content: center;
 }
-.header nav a {
+header nav a {
     display: flex;
     align-items: center;
     justify-content: center;
@@ -77,11 +77,11 @@ body {
     max-height: 5vh;
     width: auto;
 }
-.header nav img:hover {
+header nav img:hover {
     transition: background-color 0.3s ease-in-out;
     background-color: #78613c;
 }
-.content {
+main {
     margin: 0;
     padding: 1em 2em 4em 2em;
     min-height: 100vh;
@@ -100,12 +100,12 @@ body {
         rgb(128 0 128 / 50%)
     ); NOT INDED FOR ACTUAL USE*/ 
 }
-.content img {
+main img {
     min-width: none;
     min-height: none;
     max-width: 100%;
 }
-.footer {
+footer {
     /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
     /*background-image: url(./images/woodcolored.webp);
     background-repeat: repeat;*/
@@ -116,31 +116,31 @@ body {
     width: 100%;
 }
 
-.footer nav {
+footer nav {
     display: flex;
     height: 10vh;
 }
 
-.footer nav > * {
+footer nav > * {
     display: flex;
     flex-grow: 1;
     justify-content: center;
     align-items: center;
 }
 
-.footer img {
+footer img {
     padding: 0.5em;
     object-fit: contain;
     height: 70%;
 }
-.footer p {
+footer p {
     display: flex;
     align-self: center;
     height: 100%;
     font-size: small;
 }
 
-.footer nav a:hover {
+footer nav a:hover {
     transition: background-color 0.3s ease-in-out;
     background-color: #78613c;
 }
@@ -344,7 +344,7 @@ ol li {
     max-width: 70%;
 }
 @media (max-width: 1000px) { /*Mobile Settings*/
-    .content {
+    main {
         min-width: none;
         max-width: 100%;
         padding: 1em;
@@ -353,24 +353,24 @@ ol li {
         display: flex;
         flex-direction: column;
     }
-    .footer span {
+    footer span {
         display: none;
     }
-    .footer p {
+    footer p {
         width: 20%;
     }
     .info {
         padding: 0 2em 0 2em;
     }
-    .header {
+    header {
         background-size: 60%;
         display: flex;
         flex-direction: column;
     }
-    .footer {
+    footer {
         background-size: 60%;
     }
-    .header a img {
+    header a img {
         object-fit: contain;
         margin: 0.5em;
         width: 85%
@@ -419,7 +419,7 @@ ol li {
         grid-template-rows: 2fr 3fr;
         grid-template-columns: 3fr 5fr !important;
     }
-    .content {
+    main {
         padding: 5px;
     }
 }
