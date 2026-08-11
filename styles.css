@@ -191,6 +191,8 @@ h5 {
 .itemlist img {
     width: 128px;
     height: 128px;
+    align-self: center;
+    justify-self: center;
 }
 .itemlist h4 {
     font-size: x-large;
