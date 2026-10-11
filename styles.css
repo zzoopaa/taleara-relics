@@ -174,9 +174,9 @@ h5 {
     min-width: none;
 }
 .itemlist li a {
-    display: flex;
-    grid-template-columns: 1fr 1fr;
-    justify-content: space-around;
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
     padding: 10px;
     border-color: #2b1700;
     border-style: solid;
@@ -190,7 +190,7 @@ h5 {
 }
 .itemlist img {
     width: 128px;
-    height: 128px;
+    height: auto;
     align-self: center;
     justify-self: center;
 }
@@ -288,7 +288,13 @@ h5 {
 .wideListItem {
     grid-column: 1/-1;
 }
+.itemlist .wideListItem a {
+    display: flex;
+    justify-content: space-around;
+}
 .wideListItem img{
+    max-width: 128px;
+    height: auto;
     padding: 0.3em;
 }
 
@@ -352,6 +358,12 @@ ol li {
     .itemlist {
         display: flex;
         flex-direction: column;
+    }
+    .itemlist li {
+        height: 20%;
+    }
+    .itmelist li a {
+        height: 20%;
     }
     footer span {
         display: none;
