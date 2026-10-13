@@ -255,7 +255,9 @@ h5 {
 #imageGallery > div {
     margin: 0.25em;
 }
-
+audio {
+    max-width: 100%;
+}
 #centeredrow {
     display: flex;
     flex-direction: row;
