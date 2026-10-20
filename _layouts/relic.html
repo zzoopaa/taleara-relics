@@ -1,0 +1,51 @@
+---
+layout: default
+---
+<main>
+    <h2>{{ page.title }}</h2>
+    {% if page.subtitle %}
+    <h3>{{ page.subtitle }}</h3>
+    {% endif %}
+    <div class="relicPage">
+        <div class="textCol">
+
+            <div class="flexrow">
+                <div>
+                    <img src="{{ page.inventory_image | relative_url }}"
+                         alt="{{ page.title }}">
+                </div>
+                <div>
+                    <h3>Info</h3>
+                    <p>
+                        {% for item in page.info %}
+                            {{ item.label }}: {{ item.value }}{% unless forloop.last %}<br><br>{% endunless %}
+                        {% endfor %}
+                    </p>
+                </div>
+            </div>
+            <br><br>
+            {{ content }}
+        </div>
+        <div class="imageCol">
+            {% for image in page.side_images %}
+            <div>
+                <img src="{{ image.src | relative_url }}"
+                     alt="{{ image.caption }}">
+                <p>{{ image.caption }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+    {% if page.gallery and page.gallery.size > 0 %}
+    <h3>Image Gallery</h3>
+    <div id="imageGallery">
+        {% for image in page.gallery %}
+        <div>
+            <img src="{{ image.src | relative_url }}"
+                 alt="{{ image.caption }}">
+            <p>{{ image.caption }}</p>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</main>

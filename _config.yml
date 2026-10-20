@@ -1,0 +1,12 @@
+title: "Taleara Relics"
+description: "A wiki for all of the relics in the Roblox game Taleara"
+
+baseurl: "/index"
+url: "https://zzoopaa.github.io/taleara-relics/"
+
+markdown: kramdown
+
+exclude:
+  - README.md
+  - Gemfile
+  - Gemfile.lock
