@@ -1,7 +1,7 @@
 title: "Taleara Relics"
 description: "A wiki for all of the relics in the Roblox game Taleara"
-baseurl: ""
-url: "https://zzoopaa.github.io/taleara-relics/"
+baseurl: "/taleara-relics"
+url: "https://zzoopaa.github.io"
 permalink: pretty
 markdown: kramdown
 exclude:
