@@ -10,8 +10,8 @@ info:
   value: Accessory
 - label: Unique Colors
   value: None
-- label: Particle Effects
-  value: Yes
+- label: Sound Effects
+  value: 'Yes'
 - label: Sound Effects
   value: None
 - label: Owner

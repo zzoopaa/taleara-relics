@@ -11,9 +11,9 @@ info:
 - label: Unique Colors
   value: Very Green
 - label: Particle Effects
-  value: None
+  value: 'None'
 - label: Sound Effects
-  value: None
+  value: 'None'
 - label: Owner
   value: VenostyI
 side_images:

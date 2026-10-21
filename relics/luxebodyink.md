@@ -11,9 +11,9 @@ info:
 - label: Unique Colors
   value: Luxe Gold
 - label: Particle Effects
-  value: None
+  value: 'None'
 - label: Sound Effects
-  value: None
+  value: 'None'
 - label: Owner
   value: None
 side_images:

@@ -10,8 +10,8 @@ info:
   value: Head
 - label: Unique Colors
   value: Wood Colors
-- label: Particle Effects
-  value: Yes
+- label: Sound Effects
+  value: 'Yes'
 - label: Sound Effects
   value: None
 - label: Owner

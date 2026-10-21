@@ -11,8 +11,8 @@ info:
   value: Accessory
 - label: Unique Colors
   value: Harp Gold
-- label: Particle Effects
-  value: None
+- label: Sound Effects
+  value: 'None'
 - label: Sound Effects
   value: Yes
 - label: Owner

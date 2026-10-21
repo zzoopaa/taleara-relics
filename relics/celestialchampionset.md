@@ -11,18 +11,18 @@ info:
 - label: Unique Colors
   value: Star Black & Star Red
 - label: Particle Effects
-  value: None
+  value: 'None'
 - label: Sound Effects
-  value: None
+  value: 'None'
 - label: Owner
   value: starland2002 / Celestar
 side_images:
 - src: /images/celestialchampion/celhelminv.webp
-  caption: The helmet inventory icon
+  caption: The helmet inventory popup
 - src: /images/celestialchampion/celchestinv.webp
-  caption: The chestplate inventory icon
+  caption: The chestplate inventory popup
 - src: /images/celestialchampion/celleggingsinv.webp
-  caption: The leggings inventory icon
+  caption: The leggings inventory popup
 gallery:
 - src: /images/celestialchampion/celestialfull.webp
   caption: The full Celestial Champion set

@@ -11,9 +11,9 @@ info:
 - label: Unique Colors
   value: Lydia's Black
 - label: Particle Effects
-  value: None
+  value: 'None'
 - label: Sound Effects
-  value: None
+  value: 'None'
 - label: Owner
   value: squidbluie / squib
 side_images:
