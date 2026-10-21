@@ -10,19 +10,19 @@ info:
 - label: Slot
   value: Weapon
 - label: Particle Effects
-  value: 'True'
+  value: 'Yes'
 - label: Sound Effects
-  value: 'True'
+  value: 'Yes'
 side_images:
 - src: /images/halloween/ingame/gracelesssword1.webp
-  caption: Graceless Sword — view 1
+  caption: A player holding the Graceless Sword
 - src: /images/halloween/ingame/gracelesssword2.webp
-  caption: Graceless Sword — view 2
+  caption: A player swinging the Graceless Sword
 gallery:
 - src: /images/halloween/ingame/gracelesssword3.webp
-  caption: Graceless Sword — view 3
+  caption: The Faie's Reward ability after killing an enemy
 - src: /images/halloween/ingame/gracelesssword4.webp
-  caption: Graceless Sword — view 4
+  caption: Another view of the ability
 ---
 
 ### Appearance & Effects

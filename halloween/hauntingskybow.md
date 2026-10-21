@@ -10,21 +10,21 @@ info:
 - label: Slot
   value: Weapon
 - label: Particle Effects
-  value: 'True'
+  value: 'Yes'
 - label: Sound Effects
-  value: 'True'
+  value: 'Yes'
 side_images:
 - src: /images/halloween/ingame/hauntingbow1.webp
-  caption: Haunting Sky Bow — view 1
+  caption: A player holding the Haunting Sky Bow
 - src: /images/halloween/ingame/hauntingbow2.webp
-  caption: Haunting Sky Bow — view 2
+  caption: A player shooting the Haunting Sky Bow
 gallery:
 - src: /images/halloween/ingame/hauntingbow3.webp
-  caption: Haunting Sky Bow — view 3
+  caption: The passive lightning ability
 - src: /images/halloween/ingame/hauntingbow4.webp
-  caption: Haunting Sky Bow — view 4
+  caption: The signature, Supercharged Sky Piercer
 - src: /images/halloween/ingame/hauntingbow5.webp
-  caption: Haunting Sky Bow — view 5
+  caption: Another view of the signature
 ---
 
 ### Appearance & Effects

@@ -10,19 +10,19 @@ info:
 - label: Slot
   value: Weapon
 - label: Particle Effects
-  value: 'True'
+  value: 'Yes'
 - label: Sound Effects
-  value: 'True'
+  value: 'Yes'
 side_images:
 - src: /images/halloween/ingame/wailignwand1.webp
-  caption: Wailing Wand — view 1
+  caption: A player holding the Wailing Wand
 - src: /images/halloween/ingame/wailingwand2.webp
-  caption: Wailing Wand — view 2
+  caption: The Wailing Wand's projectiles
 gallery:
 - src: /images/halloween/ingame/wailingwand3.webp
-  caption: Wailing Wand — view 3
+  caption: Another view of the projectile
 - src: /images/halloween/ingame/wailingwand4.webp
-  caption: Wailing Wand — view 4
+  caption: The Wailing Wand's Ability
 ---
 
 ### Appearance & Effects
