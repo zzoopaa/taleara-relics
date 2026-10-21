@@ -3,12 +3,11 @@ layout: relic
 title: Malice
 description: Malice relic from Taleara
 permalink: /malice.html
+favicon: /images/icons/malice.png
 inventory_image: /images/malice/maliceinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects
@@ -30,7 +29,7 @@ gallery:
 - src: /images/malice/malicegreen.webp
   caption: Colored green
 - src: /images/malice/malicehalo.webp
-  caption: Malice stylized with <a href="./kaylieshalo.html">Kaylie's Halo</a>
+  caption: Malice stylized with <a href="./kaylieshalo">Kaylie's Halo</a>
 - src: /images/malice/malicehalo2.webp
   caption: The horns passing through the halo
 - src: /images/malice/malicesquint.webp

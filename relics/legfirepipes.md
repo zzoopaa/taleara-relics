@@ -3,12 +3,11 @@ layout: relic
 title: Leg Fire Pipes
 description: Leg Fire Pipes relic from Taleara
 permalink: /legfirepipes.html
+favicon: /images/icons/legfirepipes.png
 inventory_image: /images/legfirepipes/firepipesinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects

@@ -3,12 +3,11 @@ layout: relic
 title: Conqueror's Mask
 description: Conqueror's Mask relic from Taleara
 permalink: /conquerorsmask.html
+favicon: /images/icons/conqmaskicon3.png
 inventory_image: /images/conqmask/conqmaskinvnew.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: Xiao Teal
 - label: Particle Effects

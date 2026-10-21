@@ -3,14 +3,12 @@ layout: relic
 title: "A.A. Flak Gun"
 description: "A.A. Flak Gun relic from Taleara"
 permalink: /aaflakgun.html
-
+favicon: /images/icons/flakgun.png
 inventory_image: /images/flakgun/flakguninv.webp
 
 info:
   - label: Slot
     value: Head
-  - label: Recolorable?
-    value: "Yes"
   - label: Unique Colors
     value: None
   - label: Particle Effects

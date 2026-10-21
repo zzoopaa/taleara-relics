@@ -1,38 +1,37 @@
 ---
-"layout": "relic"
-"title": "Veno Snake"
-"description": "Veno Snake relic from Taleara"
-"permalink": "/venosnake.html"
-"inventory_image": "/images/snake/snakeinv.webp"
-"info":
-- "label": "Slot"
-  "value": "Accessory"
-- "label": "Recolorable?"
-  "value": "Yes"
-- "label": "Unique Colors"
-  "value": "Very Green"
-- "label": "Particle Effects"
-  "value": "None"
-- "label": "Sound Effects"
-  "value": "None"
-- "label": "Owner"
-  "value": "VenostyI"
-"side_images":
-- "src": "/images/snake/snakefront.webp"
-  "caption": "A player wearing the Veno Snake"
-- "src": "/images/snake/snakeback.webp"
-  "caption": "Viewed from the back"
-"gallery":
-- "src": "/images/snake/snakeinspiration.webp"
-  "caption": "VenostyI's Roblox avatar with the accessory that inspired the Veno Snake"
-- "src": "/images/snake/snaketop.webp"
-  "caption": "Viewed from the top"
-- "src": "/images/snake/snakefront2.webp"
-  "caption": "Another angle"
-- "src": "/images/snake/snakered.webp"
-  "caption": "Colored red"
-- "src": "/images/snake/snakegrey.webp"
-  "caption": "Colored grey"
+layout: relic
+title: Veno Snake
+description: Veno Snake relic from Taleara
+permalink: /venosnake.html
+favicon: /images/icons/snake.png
+inventory_image: /images/snake/snakeinv.webp
+info:
+- label: Slot
+  value: Accessory
+- label: Unique Colors
+  value: Very Green
+- label: Particle Effects
+  value: None
+- label: Sound Effects
+  value: None
+- label: Owner
+  value: VenostyI
+side_images:
+- src: /images/snake/snakefront.webp
+  caption: A player wearing the Veno Snake
+- src: /images/snake/snakeback.webp
+  caption: Viewed from the back
+gallery:
+- src: /images/snake/snakeinspiration.webp
+  caption: VenostyI's Roblox avatar with the accessory that inspired the Veno Snake
+- src: /images/snake/snaketop.webp
+  caption: Viewed from the top
+- src: /images/snake/snakefront2.webp
+  caption: Another angle
+- src: /images/snake/snakered.webp
+  caption: Colored red
+- src: /images/snake/snakegrey.webp
+  caption: Colored grey
 ---
 
 ### Appearance & Effects

@@ -3,12 +3,11 @@ layout: relic
 title: Headless Head
 description: Headless Head relic from Taleara
 permalink: /headlesshead.html
+favicon: /images/icons/headless.png
 inventory_image: /images/headless/headlessheadinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'No'
 - label: Unique Colors
   value: None
 - label: Particle Effects
@@ -26,9 +25,9 @@ gallery:
 - src: /images/headless/headlesshelm.webp
   caption: Headless Head worn with a normal helmet
 - src: /images/headless/headlesshalo.webp
-  caption: Headless Head worn with <a href="./kaylieshalo.html">Kaylie's Halo</a>
+  caption: Headless Head worn with <a href="./kaylieshalo">Kaylie's Halo</a>
 - src: /images/headless/headlesswheel.webp
-  caption: Headless Head worn with the <a href="./adaptationwheel.html">Adaptation Wheel</a>
+  caption: Headless Head worn with the <a href="./adaptationwheel">Adaptation Wheel</a>
 ---
 
 ### Appearance & Effects

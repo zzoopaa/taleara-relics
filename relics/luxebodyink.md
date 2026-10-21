@@ -3,12 +3,11 @@ layout: relic
 title: Luxe Body Ink
 description: Luxe Body Ink relic from Taleara
 permalink: /luxebodyink.html
+favicon: /images/icons/luxeink.png
 inventory_image: /images/luxe/luxeinventory.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: Luxe Gold
 - label: Particle Effects

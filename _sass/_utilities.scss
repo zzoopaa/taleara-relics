@@ -1,0 +1,42 @@
+.wideListItem {
+    grid-column: 1/-1;
+}
+.itemlist .wideListItem a {
+    display: flex;
+    justify-content: space-around;
+}
+.wideListItem img{
+    max-width: 128px;
+    height: auto;
+    padding: 0.3em;
+}
+
+.icon {
+    width: 32px;
+    height: 32px;
+}
+
+.info {
+    font-size: larger;
+    padding: 0 6em 0 6em;
+}
+#infoul {
+    padding: 0 2em;
+}
+
+.have {
+    color: lightgreen;
+}
+.need {
+    color: salmon;
+}
+ol {
+    text-align: left;
+}
+ol a {
+    text-align: left;
+    color: goldenrod;
+}
+ol li {
+    margin: 0.5em;
+}

@@ -3,12 +3,11 @@ layout: relic
 title: Gardener's Veil
 description: Gardener's Veil relic from Taleara
 permalink: /gardenersveil.html
+favicon: /images/icons/gardenersveil.png
 inventory_image: /images/gardenersveil/gardenersveilinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects

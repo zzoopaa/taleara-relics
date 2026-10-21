@@ -1,42 +1,41 @@
 ---
-"layout": "relic"
-"title": "Sunken Warrior Set"
-"description": "Sunken Warrior Set relic from Taleara, including Sunken Warrior Helm, Sunken Warrior Chestplate, Sunken Warrior Legs"
-"permalink": "/sunkenwarriorset.html"
-"inventory_image": "/images/sunkenwarrior/sunkenset.webp"
-"info":
-- "label": "Slot"
-  "value": "Head, Chest, Legs"
-- "label": "Recolorable?"
-  "value": "Yes"
-- "label": "Unique Colors"
-  "value": "Warrior Greeen"
-- "label": "Particle Effects"
-  "value": "None"
-- "label": "Sound Effects"
-  "value": "None"
-- "label": "Owner"
-  "value": "None"
-"side_images":
-- "src": "/images/sunkenwarrior/sunkenhelminv.webp"
-  "caption": "Sunken Warrior Helm"
-- "src": "/images/sunkenwarrior/sunkenarmorinv.webp"
-  "caption": "Sunken Warrior Armor"
-- "src": "/images/sunkenwarrior/sunkenleggingsinv.webp"
-  "caption": "Sunken Warrior Leggings"
-"gallery":
-- "src": "/images/sunkenwarrior/sunkenback.webp"
-  "caption": "Viewed from the back"
-- "src": "/images/sunkenwarrior/sunkenblue.webp"
-  "caption": "Colored blue"
-- "src": "/images/sunkenwarrior/sunkenred.webp"
-  "caption": "Colored red"
-- "src": "/images/sunkenwarrior/sunkenhelm.webp"
-  "caption": "The helmet by itself"
-- "src": "/images/sunkenwarrior/sunkenchest.webp"
-  "caption": "The chestplate by itself"
-- "src": "/images/sunkenwarrior/sunkenlegs.webp"
-  "caption": "The leggings by themselves"
+layout: relic
+title: Sunken Warrior Set
+description: Sunken Warrior Set relic from Taleara, including Sunken Warrior Helm, Sunken Warrior Chestplate, Sunken Warrior Legs
+permalink: /sunkenwarriorset.html
+favicon: /images/icons/sunkenhat.png
+inventory_image: /images/sunkenwarrior/sunkenset.webp
+info:
+- label: Slot
+  value: Head, Chest, Legs
+- label: Unique Colors
+  value: Warrior Greeen
+- label: Particle Effects
+  value: None
+- label: Sound Effects
+  value: None
+- label: Owner
+  value: None
+side_images:
+- src: /images/sunkenwarrior/sunkenhelminv.webp
+  caption: Sunken Warrior Helm
+- src: /images/sunkenwarrior/sunkenarmorinv.webp
+  caption: Sunken Warrior Armor
+- src: /images/sunkenwarrior/sunkenleggingsinv.webp
+  caption: Sunken Warrior Leggings
+gallery:
+- src: /images/sunkenwarrior/sunkenback.webp
+  caption: Viewed from the back
+- src: /images/sunkenwarrior/sunkenblue.webp
+  caption: Colored blue
+- src: /images/sunkenwarrior/sunkenred.webp
+  caption: Colored red
+- src: /images/sunkenwarrior/sunkenhelm.webp
+  caption: The helmet by itself
+- src: /images/sunkenwarrior/sunkenchest.webp
+  caption: The chestplate by itself
+- src: /images/sunkenwarrior/sunkenlegs.webp
+  caption: The leggings by themselves
 ---
 
 ### Appearance & Effects

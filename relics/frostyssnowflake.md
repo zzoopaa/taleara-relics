@@ -3,12 +3,11 @@ layout: relic
 title: Frosty's Snowflake
 description: Frosty's Snowflake relic from Taleara
 permalink: /frostyssnowflake.html
+favicon: /images/icons/snowflake.png
 inventory_image: /images/snowflake/snowflakeinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects
@@ -26,7 +25,7 @@ gallery:
 - src: /images/snowflake/snowflake2.webp
   caption: Another angle of Frosty's Snowflake
 - src: /images/twinbands/twinbands.webp
-  caption: The <a href="./forgottentwinbands.html">Forgotten Twinbands</a>, which replaced Frosty's Snowflake
+  caption: The <a href="./forgottentwinbands">Forgotten Twinbands</a>, which replaced Frosty's Snowflake
 ---
 
 ### Appearance & Effects

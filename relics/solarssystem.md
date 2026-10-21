@@ -1,38 +1,37 @@
 ---
-"layout": "relic"
-"title": "Solar's System"
-"description": "Solar's System relic from Taleara"
-"permalink": "/solarssystem.html"
-"inventory_image": "/images/solarsystem/solarsysteminvnew.webp"
-"info":
-- "label": "Slot"
-  "value": "Accessory"
-- "label": "Recolorable?"
-  "value": "Yes"
-- "label": "Unique Colors"
-  "value": "None"
-- "label": "Particle Effects"
-  "value": "Yes"
-- "label": "Sound Effects"
-  "value": "None"
-- "label": "Owner"
-  "value": "Solar"
-"side_images":
-- "src": "/images/solarsystem/solarsystem.webp"
-  "caption": "A player wearing Solar's System"
-- "src": "/images/solarsystem/solarsystem.gif"
-  "caption": "The planets rotating around the player"
-"gallery":
-- "src": "/images/solarsystem/solarsystemtop.webp"
-  "caption": "Viewed from the top"
-- "src": "/images/solarsystem/starred.webp"
-  "caption": "Colored red"
-- "src": "/images/solarsystem/starblue.webp"
-  "caption": "Colored blue"
-- "src": "/images/solarsystem/starwhite.webp"
-  "caption": "Colored white"
-- "src": "/images/icons/solarsystem.png"
-  "caption": "The old icon before the star was added"
+layout: relic
+title: Solar's System
+description: Solar's System relic from Taleara
+permalink: /solarssystem.html
+favicon: /images/icons/solarsystemiconnew.png
+inventory_image: /images/solarsystem/solarsysteminvnew.webp
+info:
+- label: Slot
+  value: Accessory
+- label: Unique Colors
+  value: None
+- label: Particle Effects
+  value: Yes
+- label: Sound Effects
+  value: None
+- label: Owner
+  value: Solar
+side_images:
+- src: /images/solarsystem/solarsystem.webp
+  caption: A player wearing Solar's System
+- src: /images/solarsystem/solarsystem.gif
+  caption: The planets rotating around the player
+gallery:
+- src: /images/solarsystem/solarsystemtop.webp
+  caption: Viewed from the top
+- src: /images/solarsystem/starred.webp
+  caption: Colored red
+- src: /images/solarsystem/starblue.webp
+  caption: Colored blue
+- src: /images/solarsystem/starwhite.webp
+  caption: Colored white
+- src: /images/icons/solarsystem.png
+  caption: The old icon before the star was added
 ---
 
 ### Appearance & Effects

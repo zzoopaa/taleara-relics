@@ -1,0 +1,41 @@
+.itemlist {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    padding:0;
+    min-width: none;
+}
+.itemlist li a {
+    display: grid;
+    grid-template-columns: 1fr 2fr;
+    justify-content: center;
+    padding: 10px;
+    border-color: #2b1700;
+    border-style: solid;
+    margin: 0.5em;
+    height: 80%;
+}
+
+.itemlist a:hover {
+    transition: background-color 0.1s ease-in;
+    background-color: rgb(140 209 71 / 0.4);
+}
+.itemlist img {
+    width: 128px;
+    height: auto;
+    align-self: center;
+    justify-self: center;
+}
+.itemlist h4 {
+    font-size: x-large;
+    margin-top: 0.5em;
+    margin-bottom: 0.5em;
+}
+.itemlist p {
+    max-width: 15em;
+    margin: 0;
+    justify-self: center;
+}
+/*.itemlist li:last-child:nth-child(odd) {
+    grid-column: 1 / -1;
+    justify-self: center;
+}*/

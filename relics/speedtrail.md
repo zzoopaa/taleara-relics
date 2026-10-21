@@ -1,34 +1,33 @@
 ---
-"layout": "relic"
-"title": "Speed Trail"
-"description": "Speed Trail relic from Taleara"
-"permalink": "/speedtrail.html"
-"inventory_image": "/images/speedtrail/speedtrailinv.webp"
-"info":
-- "label": "Slot"
-  "value": "Accessory"
-- "label": "Recolorable?"
-  "value": "Yes"
-- "label": "Unique Colors"
-  "value": "None"
-- "label": "Particle Effects"
-  "value": "Yes"
-- "label": "Sound Effects"
-  "value": "None"
-- "label": "Owner"
-  "value": "None"
-"side_images":
-- "src": "/images/speedtrail/speedblue.webp"
-  "caption": "A player wearing The Speed Trail"
-- "src": "/images/speedtrail/speedblue2.webp"
-  "caption": "A player jumping around with the Speed Trail equipped"
-"gallery":
-- "src": "/images/speedtrail/speedred.webp"
-  "caption": "Colored red"
-- "src": "/images/speedtrail/speedyellow.webp"
-  "caption": "Colored yellow"
-- "src": "/images/speedtrail/speedwhite.webp"
-  "caption": "Colored white"
+layout: relic
+title: Speed Trail
+description: Speed Trail relic from Taleara
+permalink: /speedtrail.html
+favicon: /images/icons/trail.png
+inventory_image: /images/speedtrail/speedtrailinv.webp
+info:
+- label: Slot
+  value: Accessory
+- label: Unique Colors
+  value: None
+- label: Particle Effects
+  value: Yes
+- label: Sound Effects
+  value: None
+- label: Owner
+  value: None
+side_images:
+- src: /images/speedtrail/speedblue.webp
+  caption: A player wearing The Speed Trail
+- src: /images/speedtrail/speedblue2.webp
+  caption: A player jumping around with the Speed Trail equipped
+gallery:
+- src: /images/speedtrail/speedred.webp
+  caption: Colored red
+- src: /images/speedtrail/speedyellow.webp
+  caption: Colored yellow
+- src: /images/speedtrail/speedwhite.webp
+  caption: Colored white
 ---
 
 ### Appearance & Effects

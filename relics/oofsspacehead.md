@@ -3,12 +3,11 @@ layout: relic
 title: Oof's Space Head
 description: Oof's Space Head relic from Taleara
 permalink: /oofsspacehead.html
+favicon: /images/icons/oofsspacebubblenewicon.png
 inventory_image: /images/spacehead/oofspaceheadinvnew.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'No'
 - label: Unique Colors
   value: Space Purple
 - label: Particle Effects
@@ -26,7 +25,7 @@ gallery:
 - src: /images/spacehead/blackholereal.webp
   caption: A real black hole for comparison - The accretion disk in this picture is similar to the disk on Oof's Space Head
 - src: /images/spacehead/spaceheadhelm.webp
-  caption: Oof's Space Head worn with the <a href="./celestialchampionset.html">Celestial Champion Helmet</a>
+  caption: Oof's Space Head worn with the <a href="./celestialchampionset">Celestial Champion Helmet</a>
 - src: /images/spacehead/spaceheadhelm2.webp
   caption: Another angle of Oof's Space Head with the Celestial Champion Helmet
 - src: /images/icons/spacehalo.png

@@ -3,12 +3,11 @@ layout: relic
 title: Magic Wisp in a Bottle
 description: Magic Wisp in a Bottle legendary from Taleara
 permalink: /magicwisp.html
+favicon: /images/icons/magicwisp.png
 inventory_image: /images/wisp/wispinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects

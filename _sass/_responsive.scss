@@ -1,0 +1,86 @@
+@media (max-width: 1000px) { /*Mobile Settings*/
+    main {
+        min-width: none;
+        max-width: 100%;
+        padding: 1em;
+    }
+    .itemlist {
+        display: flex;
+        flex-direction: column;
+    }
+    .itemlist li {
+        height: 20%;
+    }
+    .itmelist li a {
+        height: 20%;
+    }
+    footer span {
+        display: none;
+    }
+    footer p {
+        width: 20%;
+    }
+    .info {
+        padding: 0 2em 0 2em;
+    }
+    header {
+        background-size: 60%;
+        display: flex;
+        flex-direction: column;
+    }
+    footer {
+        background-size: 60%;
+    }
+    header a img {
+        object-fit: contain;
+        margin: 0.5em;
+        width: 85%
+    }
+    #rightnav {
+        position: relative;
+        display: flex;
+        max-height: 30%;
+    }
+    #leftnav {
+        display:none;
+    }
+    .relicPage {
+        display: flex;
+        flex-direction: column;
+    }
+    .relicPage > .imageCol {
+        display: flex;
+        flex-direction: row;
+        justify-content: center;
+    }
+    .imageCol > div {
+        padding: 1em;
+    }
+    .imageCol {
+        padding: 0 !important;
+        order: 1;
+    }
+    .flexrow {
+        display: flex;
+        flex-direction: column;
+    }
+    #imageGallery {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+    #masterpieces img {
+        width: 100%;
+        height: auto;
+    }
+}
+@media (max-width: 660px){
+    .wideListItem a {
+        display: grid !important;
+        place-items: center;
+        grid-template-rows: 2fr 3fr;
+        grid-template-columns: 3fr 5fr !important;
+    }
+    main {
+        padding: 5px;
+    }
+}

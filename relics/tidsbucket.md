@@ -1,38 +1,37 @@
 ---
-"layout": "relic"
-"title": "Tid's Bucket"
-"description": "Tid's Bucket relic from Taleara"
-"permalink": "/tidsbucket.html"
-"inventory_image": "/images/bucket/bucketinv.webp"
-"info":
-- "label": "Slot"
-  "value": "Head"
-- "label": "Recolorable?"
-  "value": "Yes"
-- "label": "Unique Colors"
-  "value": "Wood Colors"
-- "label": "Particle Effects"
-  "value": "Yes"
-- "label": "Sound Effects"
-  "value": "None"
-- "label": "Owner"
-  "value": "Tid"
-"side_images":
-- "src": "/images/bucket/bucket1.webp"
-  "caption": "The bucket in it's derfault Oak color"
-- "src": "/images/bucket/bucket2.webp"
-  "caption": "Viewed from the back"
-"gallery":
-- "src": "/images/bucket/bucketoriginal.webp"
-  "caption": "The original Tid's Bucket from Arcane Legacy"
-- "src": "/images/bucket/bucket5.webp"
-  "caption": "Colored blue"
-- "src": "/images/bucket/bucket6.webp"
-  "caption": "A close-up of the gemstone"
-- "src": "/images/bucket/bucket3.webp"
-  "caption": "The trail left behind when the player moves"
-- "src": "/images/bucket/bucket4.webp"
-  "caption": "Another view of the trail"
+layout: relic
+title: Tid's Bucket
+description: Tid's Bucket relic from Taleara
+permalink: /tidsbucket.html
+favicon: /images/icons/bucket.png
+inventory_image: /images/bucket/bucketinv.webp
+info:
+- label: Slot
+  value: Head
+- label: Unique Colors
+  value: Wood Colors
+- label: Particle Effects
+  value: Yes
+- label: Sound Effects
+  value: None
+- label: Owner
+  value: Tid
+side_images:
+- src: /images/bucket/bucket1.webp
+  caption: The bucket in it's derfault Oak color
+- src: /images/bucket/bucket2.webp
+  caption: Viewed from the back
+gallery:
+- src: /images/bucket/bucketoriginal.webp
+  caption: The original Tid's Bucket from Arcane Legacy
+- src: /images/bucket/bucket5.webp
+  caption: Colored blue
+- src: /images/bucket/bucket6.webp
+  caption: A close-up of the gemstone
+- src: /images/bucket/bucket3.webp
+  caption: The trail left behind when the player moves
+- src: /images/bucket/bucket4.webp
+  caption: Another view of the trail
 ---
 
 ### Appearance & Effects

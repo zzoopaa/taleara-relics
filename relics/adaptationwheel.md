@@ -3,12 +3,11 @@ layout: relic
 title: Adaptation Wheel
 description: template description for browsers
 permalink: /adaptationwheel.html
+favicon: /images/icons/adaptationwheel.png
 inventory_image: /images/adaptationwheel/adaptationinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: Adapted Gold
 - label: Particle Effects

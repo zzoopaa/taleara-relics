@@ -3,12 +3,11 @@ layout: relic
 title: Kaylie's Halo
 description: Kaylie's Halo relic from Taleara
 permalink: /kaylieshalo.html
+favicon: /images/icons/halo.png
 inventory_image: /images/halo/haloinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: Arcane Blue, Arcane Pink
 - label: Particle Effects

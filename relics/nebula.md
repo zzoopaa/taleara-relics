@@ -3,12 +3,11 @@ layout: relic
 title: Nebula
 description: Nebula relic from Taleara
 permalink: /nebula.html
+favicon: /images/icons/nebula.png
 inventory_image: /images/nebula/nebulainv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects

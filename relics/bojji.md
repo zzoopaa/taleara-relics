@@ -3,12 +3,11 @@ layout: relic
 title: Bojji
 description: Bojji relic from Taleara
 permalink: /bojji.html
+favicon: /images/icons/bojji.png
 inventory_image: /images/bojji/bojjiinvnew.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'No'
 - label: Unique Colors
   value: Bojji's Green
 - label: Particle Effects

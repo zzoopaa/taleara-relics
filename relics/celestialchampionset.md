@@ -3,12 +3,11 @@ layout: relic
 title: Celestial Champion Set
 description: Celestial Champion Set relic from Taleara, Celestial Champion Helm, Celestial Champion Chestplate, Celestial Champion Leggings
 permalink: /celestialchampionset.html
+favicon: /images/icons/starhat.png
 inventory_image: /images/celestialchampion/celestialchampionsetfull.webp
 info:
 - label: Slot
   value: Head, Chest, Legs
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: Star Black & Star Red
 - label: Particle Effects

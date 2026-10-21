@@ -3,12 +3,11 @@ layout: relic
 title: Morock's Blessing
 description: Morock's Blessing relic from Taleara
 permalink: /morocksblessing.html
+favicon: /images/icons/morocksblessing.png
 inventory_image: /images/morocks/morocksinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects
@@ -16,7 +15,7 @@ info:
 - label: Sound Effects
   value: None
 - label: Owner
-  value: None
+  value: XenoLucifer
 side_images:
 - src: /images/morocks/morocksfront.webp
   caption: Morock's Blessing viewed from the front

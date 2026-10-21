@@ -1,34 +1,33 @@
 ---
-"layout": "relic"
-"title": "Skai's Horns"
-"description": "Skai's Horns relic from Taleara"
-"permalink": "/skaishorns.html"
-"inventory_image": "/images/horns/hornsinv.webp"
-"info":
-- "label": "Slot"
-  "value": "Accessory"
-- "label": "Recolorable?"
-  "value": "Yes"
-- "label": "Unique Colors"
-  "value": "None"
-- "label": "Particle Effects"
-  "value": "None"
-- "label": "Sound Effects"
-  "value": "None"
-- "label": "Owner"
-  "value": "k_ameai / Skai"
-"side_images":
-- "src": "/images/horns/horns1.webp"
-  "caption": "Skai's Horns viewed from the front"
-- "src": "/images/horns/horns2.webp"
-  "caption": "Viewed from the top"
-"gallery":
-- "src": "/images/horns/horns3.webp"
-  "caption": "The horns from the back"
-- "src": "/images/horns/horns4.webp"
-  "caption": "The horns from another angle"
-- "src": "/images/horns/horns5.webp"
-  "caption": "An older picture of Skai's Horns"
+layout: relic
+title: Skai's Horns
+description: Skai's Horns relic from Taleara
+permalink: /skaishorns.html
+favicon: /images/icons/horns.png
+inventory_image: /images/horns/hornsinv.webp
+info:
+- label: Slot
+  value: Accessory
+- label: Unique Colors
+  value: None
+- label: Particle Effects
+  value: None
+- label: Sound Effects
+  value: None
+- label: Owner
+  value: k_ameai / Skai
+side_images:
+- src: /images/horns/horns1.webp
+  caption: Skai's Horns viewed from the front
+- src: /images/horns/horns2.webp
+  caption: Viewed from the top
+gallery:
+- src: /images/horns/horns3.webp
+  caption: The horns from the back
+- src: /images/horns/horns4.webp
+  caption: The horns from another angle
+- src: /images/horns/horns5.webp
+  caption: An older picture of Skai's Horns
 ---
 
 ### Appearance & Effects

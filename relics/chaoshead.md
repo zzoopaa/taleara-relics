@@ -3,12 +3,11 @@ layout: relic
 title: Chaos Head
 description: Chaos Head relic from Taleara
 permalink: /chaoshead.html
+favicon: /images/icons/chaoshead.png
 inventory_image: /images/chaoshead/chaosheadinvnew.webp
 info:
 - label: Slot
   value: Head
-- label: Recolorable?
-  value: 'No'
 - label: Unique Colors
   value: None
 - label: Particle Effects

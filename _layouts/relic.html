@@ -8,12 +8,15 @@ layout: default
     {% endif %}
     <div class="relicPage">
         <div class="textCol">
-
+            {% if page.inventory_image or page.info%}
             <div class="flexrow">
+                {% if page.inventory_image%}
                 <div>
                     <img src="{{ page.inventory_image | relative_url }}"
                          alt="{{ page.title }}">
                 </div>
+                {% endif %}
+                {% if page.info%}
                 <div>
                     <h3>Info</h3>
                     <p>
@@ -22,8 +25,10 @@ layout: default
                         {% endfor %}
                     </p>
                 </div>
+                {% endif %}
             </div>
             <br><br>
+            {% endif %}
             {{ content }}
         </div>
         <div class="imageCol">
@@ -36,13 +41,23 @@ layout: default
             {% endfor %}
         </div>
     </div>
-    {% if page.gallery and page.gallery.size > 0 %}
+   {% if page.gallery and page.gallery.size > 0 %}
     <h3>Image Gallery</h3>
     <div id="imageGallery">
         {% for image in page.gallery %}
         <div>
-            <img src="{{ image.src | relative_url }}"
-                 alt="{{ image.caption }}">
+            {% unless image.type %}
+                <img src="{{ image.src | relative_url }}"
+                     alt="{{ image.caption }}">
+            {% else %}
+                {% case image.type %}
+                    {% when "audio" %}
+                        <audio controls>
+                            <source src="{{ image.src | relative_url }}" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                {% endcase %}
+            {% endunless %}
             <p>{{ image.caption }}</p>
         </div>
         {% endfor %}

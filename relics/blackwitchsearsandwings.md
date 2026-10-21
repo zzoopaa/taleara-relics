@@ -3,12 +3,11 @@ layout: relic
 title: Black Witch's Ears and Wings
 description: Black Witch's Ears and Wings relic from Taleara
 permalink: /blackwitchsearsandwings.html
+favicon: /images/icons/witchearsandwings.png
 inventory_image: /images/witchears/earsandwingsinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: Lydia's Black
 - label: Particle Effects

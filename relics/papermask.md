@@ -3,12 +3,11 @@ layout: relic
 title: Paper Mask
 description: Paper Mask relic from Taleara
 permalink: /papermask.html
+favicon: /images/icons/papermask.png
 inventory_image: /images/icons/papermask.png
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'No'
 - label: Unique Colors
   value: None
 - label: Particle Effects

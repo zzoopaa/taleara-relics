@@ -3,11 +3,11 @@ layout: relic
 title: "Relic Extract"
 description: "Relic Extract item from Taleara"
 permalink: /relicextract.html
-
+favicon: /images/icons/relicextract.png
 inventory_image: /images/relicextract/extractinv.webp
 
 info:
-  - label: ""
+  - label: "Type"
     value: "Crafting Material"
   - label: Crafted from
     value: Relic Present

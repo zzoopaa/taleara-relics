@@ -3,12 +3,11 @@ layout: relic
 title: Forgotten Twinbands
 description: Forgotten Twinbands relic from Taleara
 permalink: /forgottentwinbands.html
+favicon: /images/icons/twinbands.png
 inventory_image: /images/twinbands/twinbandsinv.webp
 info:
 - label: Slot
   value: Accessory
-- label: Recolorable?
-  value: 'Yes'
 - label: Unique Colors
   value: None
 - label: Particle Effects
@@ -30,7 +29,7 @@ gallery:
 - src: /images/twinbands/voidbracelet.webp
   caption: The Kraken Band from Arcane Reborn, the inspiration for the right arm band
 - src: /images/twinbands/twinbandscelestial.webp
-  caption: The Forgotten Twinbands worn with the <a href="celestialchampionset.html">Celestial Champion Set</a>
+  caption: The Forgotten Twinbands worn with the <a href="celestialchampionset">Celestial Champion Set</a>
 - src: /images/twinbands/twinbandsred.webp
   caption: Colored red
 - src: /images/twinbands/twinbandssky.webp
