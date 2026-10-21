@@ -1,16 +1,16 @@
 ---
 ---
-@import "base";
-@import "header";
-@import "main";
-@import "footer";
-@import "typography";
-@import "itemlist";
-@import "relic";
-@import "gallery";
-@import "homepage";
-@import "recolorable";
-@import "utilities";
-@import "superrelic";
-@import "secrets";
-@import "responsive";
+@use "base";
+@use "header";
+@use "main";
+@use "footer";
+@use "typography";
+@use "itemlist";
+@use "relic";
+@use "gallery";
+@use "homepage";
+@use "recolorable";
+@use "utilities";
+@use "superrelic";
+@use "secrets";
+@use "responsive";
