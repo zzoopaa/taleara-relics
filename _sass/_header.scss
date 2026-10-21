@@ -1,0 +1,63 @@
+header {
+    /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
+    /*background-image: url(./images/woodcolored.webp);
+    background-repeat: repeat;*/
+    background-color: rgba(15, 58, 58, var(--headerfooterOpacity));
+    background-size: 34%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    padding: 0.5em 0;
+    font-size: x-large;
+    height: 6em;
+}
+header a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    max-height: 100%;
+    max-width:100%;
+}
+header a img {
+    display: block;
+    height: 100%;
+    width: 50%;
+}
+header nav {
+    position: absolute;
+    height: 4em;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+header nav a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+#leftnav {
+    left: 1em;
+    height: 5em;
+    width: auto;
+}
+#leftnav a {
+    height: inherit;
+}
+#leftnav img {
+    height: inherit;
+    width: 100%;
+    object-fit: contain;
+}
+#rightnav {
+    display: grid;
+    grid-template: 1fr 1fr / 1fr 1fr;
+    right: 1em;
+}
+#rightnav img {
+    max-height: 5vh;
+    width: auto;
+}
+header nav img:hover {
+    transition: background-color 0.3s ease-in-out;
+    background-color: #78613c;
+}

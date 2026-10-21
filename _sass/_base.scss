@@ -1,0 +1,20 @@
+:root {
+    --headerfooterOpacity: 0.8;
+    --contentOpacity: 0.8;
+}
+/** {
+    outline: 1px solid red;
+} FOR DEBUGGING*/ 
+body {
+    color: white;
+    min-height: 100%;
+    margin: 0;
+    background-image: url("images/webBack.png");
+    background-size: cover;
+    background-position: center;
+    background-attachment: fixed;
+    display: flex;
+    flex-direction: column;
+    font-family: Lato, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+

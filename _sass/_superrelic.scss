@@ -1,0 +1,12 @@
+#super a {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+#super > div {
+    display: flex;
+    flex-direction: row;
+    justify-self: center;
+    align-self: center;
+    height: auto;
+    object-fit: contain;
+}

@@ -1,0 +1,66 @@
+---
+layout: default
+---
+<main>
+    <h2>{{ page.title }}</h2>
+    {% if page.subtitle %}
+    <h3>{{ page.subtitle }}</h3>
+    {% endif %}
+    <div class="relicPage">
+        <div class="textCol">
+            {% if page.inventory_image or page.info%}
+            <div class="flexrow">
+                {% if page.inventory_image%}
+                <div>
+                    <img src="{{ page.inventory_image | relative_url }}"
+                         alt="{{ page.title }}">
+                </div>
+                {% endif %}
+                {% if page.info%}
+                <div>
+                    <h3>Info</h3>
+                    <p>
+                        {% for item in page.info %}
+                            {{ item.label }}: {{ item.value }}{% unless forloop.last %}<br><br>{% endunless %}
+                        {% endfor %}
+                    </p>
+                </div>
+                {% endif %}
+            </div>
+            <br><br>
+            {% endif %}
+            {{ content }}
+        </div>
+        <div class="imageCol">
+            {% for image in page.side_images %}
+            <div>
+                <img src="{{ image.src | relative_url }}"
+                     alt="{{ image.caption }}">
+                <p>{{ image.caption }}</p>
+            </div>
+            {% endfor %}
+        </div>
+    </div>
+   {% if page.gallery and page.gallery.size > 0 %}
+    <h3>Image Gallery</h3>
+    <div id="imageGallery">
+        {% for image in page.gallery %}
+        <div>
+            {% unless image.type %}
+                <img src="{{ image.src | relative_url }}"
+                     alt="{{ image.caption }}">
+            {% else %}
+                {% case image.type %}
+                    {% when "audio" %}
+                        <audio controls>
+                            <source src="{{ image.src | relative_url }}" type="audio/mpeg">
+                            Your browser does not support the audio element.
+                        </audio>
+                {% endcase %}
+            {% endunless %}
+            <p>{{ image.caption }}</p>
+        </div>
+        {% endfor %}
+    </div>
+    {% endif %}
+</main>

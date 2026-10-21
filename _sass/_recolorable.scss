@@ -1,0 +1,18 @@
+.recolorable {
+    margin: 0.2em;
+    background: linear-gradient(
+        90deg,
+        red 35%,
+        orange 40%,
+        yellow 45%,
+        green 55%,
+        blue 60%,
+        purple 65%
+    );
+    background-repeat: no-repeat;
+    background-position: center;
+    background-clip: text;
+    -webkit-background-clip: text;
+    color: transparent;
+}
+

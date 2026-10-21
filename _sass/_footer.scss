@@ -1,0 +1,40 @@
+footer {
+    /*background-color: rgba(77, 62, 38, var(--headerfooterOpacity));*/
+    /*background-image: url(./images/woodcolored.webp);
+    background-repeat: repeat;*/
+    background-color: rgba(15, 58, 58, var(--headerfooterOpacity));
+    background-size: 34%;
+    min-height: 4em;
+    height: auto;
+    width: 100%;
+}
+
+footer nav {
+    display: flex;
+    height: 10vh;
+}
+
+footer nav > * {
+    display: flex;
+    flex-grow: 1;
+    justify-content: center;
+    align-items: center;
+}
+
+footer img {
+    padding: 0.5em;
+    object-fit: contain;
+    height: 70%;
+}
+footer p {
+    display: flex;
+    align-self: center;
+    height: 100%;
+    font-size: small;
+}
+
+footer nav a:hover {
+    transition: background-color 0.3s ease-in-out;
+    background-color: #78613c;
+}
+
