@@ -2,7 +2,7 @@
 layout: relic
 title: Headless Head
 description: Headless Head relic from Taleara
-permalink: /headlesshead.html
+permalink: /headlesshead/
 favicon: /images/icons/headless.png
 inventory_image: /images/headless/headlessheadinv.webp
 info:
@@ -34,7 +34,7 @@ gallery:
 
 In-game description: Where are your BRAINS??
 
-The Headless Head is an accessory that removes the head from player's character. It has no other effects or traits otherwise. It is an accessory so it can be layered with other head equipments. The Headless Head is one of the only two relics in the game that is not recolorable the other being [Tusk](./tusk.html). Despite the fact that it is completely invisible, it still has a [Super Relic](./superrelic.html) variant.
+The Headless Head is an accessory that removes the head from player's character. It has no other effects or traits otherwise. It is an accessory so it can be layered with other head equipments. The Headless Head is one of the only two relics in the game that is not recolorable the other being [Tusk](./tusk/). Despite the fact that it is completely invisible, it still has a [Super Relic](./superrelic/) variant.
 
 <br>
 

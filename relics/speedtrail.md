@@ -2,7 +2,7 @@
 layout: relic
 title: Speed Trail
 description: Speed Trail relic from Taleara
-permalink: /speedtrail.html
+permalink: /speedtrail/
 favicon: /images/icons/trail.png
 inventory_image: /images/speedtrail/speedtrailinv.webp
 info:

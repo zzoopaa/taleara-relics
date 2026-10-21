@@ -1,0 +1,28 @@
+body.theme-halloween {
+    background-image: url("images/BG/halloweenbackground1.png");
+    background-color: rgba(33, 19, 34, var(--headerfooterOpacity));
+    color: rgba(182,182,182,1);
+
+    header, footer {
+        background-color: rgba(48, 28, 39, var(--headerfooterOpacity));
+    }
+
+    main {
+        background-color: rgba(48, 28, 39, var(--headerfooterOpacity));
+    }
+
+    a {
+        color: rgba(137, 213, 175, 1);
+    }
+
+    a:hover {
+        color: rgba(255, 189, 117, 1);
+    }
+    .itemlist li a {
+        border-color: rgba(182,182,182,0.5);
+    }
+    .itemlist a:hover {
+        color: rgba(137, 213, 175, 1);
+        background-color: rgba(182,182,182,0.5);
+    }
+}

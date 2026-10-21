@@ -2,7 +2,7 @@
 layout: relic
 title: Luxe Body Ink
 description: Luxe Body Ink relic from Taleara
-permalink: /luxebodyink.html
+permalink: /luxebodyink/
 favicon: /images/icons/luxeink.png
 inventory_image: /images/luxe/luxeinventory.webp
 info:

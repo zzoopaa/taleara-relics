@@ -2,7 +2,7 @@
 layout: relic
 title: Frosty's Snowflake
 description: Frosty's Snowflake relic from Taleara
-permalink: /frostyssnowflake.html
+permalink: /frostyssnowflake/
 favicon: /images/icons/snowflake.png
 inventory_image: /images/snowflake/snowflakeinv.webp
 info:
@@ -38,4 +38,4 @@ Frosty's Snowflake is a large snowflake that follows the player around. It glows
 
 ### Inspiration
 
-Frosty's Snowflake has been removed from the game. It was replaced with the [Forgotten Twin Bands](./forgottentwinbands.html) by request of the owner, frostyvcat, who did not like the look of the snowflake. Frosty's Snowflake was inspired by its owners name, similar to [Solar's System](./solarssystem.html).
+Frosty's Snowflake has been removed from the game. It was replaced with the [Forgotten Twin Bands](./forgottentwinbands/) by request of the owner, frostyvcat, who did not like the look of the snowflake. Frosty's Snowflake was inspired by its owners name, similar to [Solar's System](./solarssystem/).

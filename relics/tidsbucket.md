@@ -2,7 +2,7 @@
 layout: relic
 title: Tid's Bucket
 description: Tid's Bucket relic from Taleara
-permalink: /tidsbucket.html
+permalink: /tidsbucket/
 favicon: /images/icons/bucket.png
 inventory_image: /images/bucket/bucketinv.webp
 info:

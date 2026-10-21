@@ -12,7 +12,7 @@
   <link href="https://fonts.google.com/specimen/Lato" rel="stylesheet">
   <title>{{ page.title }} | {{ site.title }}</title>
 </head>
-<body>
+<body {% if page.theme %} class="theme-{{ page.theme }}"{% endif %}>
   {% include header.html %}
   {{ content }}
   {% include footer.html %}

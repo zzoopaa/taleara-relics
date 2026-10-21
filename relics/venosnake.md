@@ -2,7 +2,7 @@
 layout: relic
 title: Veno Snake
 description: Veno Snake relic from Taleara
-permalink: /venosnake.html
+permalink: /venosnake/
 favicon: /images/icons/snake.png
 inventory_image: /images/snake/snakeinv.webp
 info:

@@ -2,7 +2,7 @@
 layout: relic
 title: Bojji
 description: Bojji relic from Taleara
-permalink: /bojji.html
+permalink: /bojji/
 favicon: /images/icons/bojji.png
 inventory_image: /images/bojji/bojjiinvnew.webp
 info:
@@ -42,7 +42,7 @@ gallery:
 
 In-game description: best bird
 
-Bojji appears to be a bird, specifically a [Green-Cheeked Parakeet](https://en.wikipedia.org/wiki/Green-cheeked_parakeet) (or Green-Cheeked Conure) with a semi-turqoise mutation. Bojji will sit on the player's left shoulder while idle. When the player moves, Bojji will spread his wings and fly to follow the player around. Bojji will periodically make chirping noises, making it one of the few relics to have sound effects, the others being [Tusk](tusk.html) and [Zoopa's Harp](zoopasharp.html). Bojji is recolorable and has one unique color, Bojji's Green. Bojji's recoloreable aspect is unique in the fact that it forms a new gradient when recolored rather than changing a single static color.
+Bojji appears to be a bird, specifically a [Green-Cheeked Parakeet](https://en.wikipedia.org/wiki/Green-cheeked_parakeet) (or Green-Cheeked Conure) with a semi-turqoise mutation. Bojji will sit on the player's left shoulder while idle. When the player moves, Bojji will spread his wings and fly to follow the player around. Bojji will periodically make chirping noises, making it one of the few relics to have sound effects, the others being [Tusk](tusk/) and [Zoopa's Harp](zoopasharp/). Bojji is recolorable and has one unique color, Bojji's Green. Bojji's recoloreable aspect is unique in the fact that it forms a new gradient when recolored rather than changing a single static color.
 
 <br>
 

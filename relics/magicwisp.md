@@ -2,7 +2,7 @@
 layout: relic
 title: Magic Wisp in a Bottle
 description: Magic Wisp in a Bottle legendary from Taleara
-permalink: /magicwisp.html
+permalink: /magicwisp/
 favicon: /images/icons/magicwisp.png
 inventory_image: /images/wisp/wispinv.webp
 info:

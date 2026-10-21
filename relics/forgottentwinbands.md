@@ -2,7 +2,7 @@
 layout: relic
 title: Forgotten Twinbands
 description: Forgotten Twinbands relic from Taleara
-permalink: /forgottentwinbands.html
+permalink: /forgottentwinbands/
 favicon: /images/icons/twinbands.png
 inventory_image: /images/twinbands/twinbandsinv.webp
 info:
@@ -46,4 +46,4 @@ Forgotten Twinbands are a pair of asymmetrical armbands that are worn near the e
 
 ### Inspiration
 
-The Forgotten Twinbands were inspired by two separate items from the game [Arcane Adventures](https://roblox-arcane-odyssey.fandom.com/wiki/Arcane_Adventures). The left band was inspired by the [Aethereal Ornament](https://roblox-arcane-reborn-wiki.fandom.com/wiki/Aethereal_Ornament), a legendary weapon that is also worn on the player's right arm, which is infused with Aether magic. The right band was inspired by the [Kraken's Band](https://roblox-arcane-reborn-wiki.fandom.com/wiki/Kraken's_Band), a legendary accessory that is also worn on the player's left arm, which enhances magic. The Forgotten Twinbands were originally [Frosty's Snowflake](https://zzoopaa.github.io/taleara-relics/frostyssnowflake.html), before the owner, frostyvcat, asked for it to be replaced with the twinbands due to the original not matching outfits well. Frosty's Snowflake is now unobtainable, and all copies of it have been replaced with the Forgotten Twinbands.
+The Forgotten Twinbands were inspired by two separate items from the game [Arcane Adventures](https://roblox-arcane-odyssey.fandom.com/wiki/Arcane_Adventures). The left band was inspired by the [Aethereal Ornament](https://roblox-arcane-reborn-wiki.fandom.com/wiki/Aethereal_Ornament), a legendary weapon that is also worn on the player's right arm, which is infused with Aether magic. The right band was inspired by the [Kraken's Band](https://roblox-arcane-reborn-wiki.fandom.com/wiki/Kraken's_Band), a legendary accessory that is also worn on the player's left arm, which enhances magic. The Forgotten Twinbands were originally [Frosty's Snowflake](https://zzoopaa.github.io/taleara-relics/frostyssnowflake/), before the owner, frostyvcat, asked for it to be replaced with the twinbands due to the original not matching outfits well. Frosty's Snowflake is now unobtainable, and all copies of it have been replaced with the Forgotten Twinbands.

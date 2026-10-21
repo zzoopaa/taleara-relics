@@ -2,7 +2,7 @@
 layout: relic
 title: Adaptation Wheel
 description: template description for browsers
-permalink: /adaptationwheel.html
+permalink: /adaptationwheel/
 favicon: /images/icons/adaptationwheel.png
 inventory_image: /images/adaptationwheel/adaptationinv.webp
 info:

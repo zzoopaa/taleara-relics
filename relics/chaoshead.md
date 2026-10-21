@@ -2,7 +2,7 @@
 layout: relic
 title: Chaos Head
 description: Chaos Head relic from Taleara
-permalink: /chaoshead.html
+permalink: /chaoshead/
 favicon: /images/icons/chaoshead.png
 inventory_image: /images/chaoshead/chaosheadinvnew.webp
 info:

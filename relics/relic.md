@@ -3,7 +3,7 @@
 layout: relic
 title: "Relic Name"
 description: "Relic Name from Taleara"
-permalink: /relicname.html
+permalink: /relicname/
 
 inventory_image: /images/relicname/inventory.webp
 

@@ -2,7 +2,7 @@
 layout: relic
 title: "Relic Extract"
 description: "Relic Extract item from Taleara"
-permalink: /relicextract.html
+permalink: /relicextract/
 favicon: /images/icons/relicextract.png
 inventory_image: /images/relicextract/extractinv.webp
 

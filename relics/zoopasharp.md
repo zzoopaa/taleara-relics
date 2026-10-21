@@ -2,7 +2,7 @@
 layout: relic
 title: Zoopa's Harp
 description: Zoopa's Harp relic from Taleara
-permalink: /zoopasharp.html
+permalink: /zoopasharp/
 favicon: /images/icons/harp.png
 inventory_image: /images/harp/zoopasharpinv.webp
 inventory_alt: What Zoopa's Harp looks like in the inventory
@@ -62,7 +62,7 @@ gallery:
 
 In-game description: A symphony of melodious tunes
 
-Zoopa's Harp is an accessory that appears to be an elaborate, golden harp with white strings. It floats behind the player and follows them around. It is somewhat large, being bigger than the player's torso. The harp can be recolored, and the body will change colors while the strings stay white. It has one unique color called Harp Gold.<br/><br/>Zoopa's Harp will occassionally play musical chords from a random list. It has seven unique sound effects, all various harp chords that are occasionally played at random while the harp is equipped. The sound files for the harp can be found embedded in the gallery below. Zoopa's Harp is one of the few relics that has it's own sound effects, the others being [Bojji](./bojji.html) and [Tusk](./tusk.html).
+Zoopa's Harp is an accessory that appears to be an elaborate, golden harp with white strings. It floats behind the player and follows them around. It is somewhat large, being bigger than the player's torso. The harp can be recolored, and the body will change colors while the strings stay white. It has one unique color called Harp Gold.<br/><br/>Zoopa's Harp will occassionally play musical chords from a random list. It has seven unique sound effects, all various harp chords that are occasionally played at random while the harp is equipped. The sound files for the harp can be found embedded in the gallery below. Zoopa's Harp is one of the few relics that has it's own sound effects, the others being [Bojji](./bojji/) and [Tusk](./tusk/).
 
 <br>
 

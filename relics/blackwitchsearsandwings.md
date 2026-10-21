@@ -2,7 +2,7 @@
 layout: relic
 title: Black Witch's Ears and Wings
 description: Black Witch's Ears and Wings relic from Taleara
-permalink: /blackwitchsearsandwings.html
+permalink: /blackwitchsearsandwings/
 favicon: /images/icons/witchearsandwings.png
 inventory_image: /images/witchears/earsandwingsinv.webp
 info:

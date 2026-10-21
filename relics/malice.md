@@ -2,7 +2,7 @@
 layout: relic
 title: Malice
 description: Malice relic from Taleara
-permalink: /malice.html
+permalink: /malice/
 favicon: /images/icons/malice.png
 inventory_image: /images/malice/maliceinv.webp
 info:
@@ -44,10 +44,10 @@ gallery:
 
 In-game description: Devilish horns and eyes<br>Custom relic for the August 2026 outfit contest #1 spot
 
-Malice is a pair of slender, glowing demon horns with a pair of glowing eyes. Unlike [Skai's Horns](./skaishorns.html), the Malice horns point straight upwards and are untextured. Malice also comes with a pair of glowing eyes that match the color of the horns. Malice does not have any unique colors, but can by recolored.
+Malice is a pair of slender, glowing demon horns with a pair of glowing eyes. Unlike [Skai's Horns](./skaishorns/), the Malice horns point straight upwards and are untextured. Malice also comes with a pair of glowing eyes that match the color of the horns. Malice does not have any unique colors, but can by recolored.
 
 <br>
 
 ### Inspiration
 
-Malice was inspired by demon horns, hence the relic being named 'Malice'. cooIshady, the owner, also wanted Malice to fit well with [Kaylie's Halo](kaylieshalo.html) specifically, so the horns were designed to go through the halo without any clipping (see pictures below).<br><br>Malice is the custom relic that cooIshady chose to have added to the game after he got first place in the August 2026 outfit contest with his Dr. Doom outfit (seen below). Malice is the 29th relic to be added to Taleara.<br><br>From the owner himself: "Malice was inspired by demons and their malicious nature. Paired with Kaylie’s angelic halo, it represents my belief in balance between opposing natures good and evil."
+Malice was inspired by demon horns, hence the relic being named 'Malice'. cooIshady, the owner, also wanted Malice to fit well with [Kaylie's Halo](kaylieshalo/) specifically, so the horns were designed to go through the halo without any clipping (see pictures below).<br><br>Malice is the custom relic that cooIshady chose to have added to the game after he got first place in the August 2026 outfit contest with his Dr. Doom outfit (seen below). Malice is the 29th relic to be added to Taleara.<br><br>From the owner himself: "Malice was inspired by demons and their malicious nature. Paired with Kaylie’s angelic halo, it represents my belief in balance between opposing natures good and evil."

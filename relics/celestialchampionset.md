@@ -2,7 +2,7 @@
 layout: relic
 title: Celestial Champion Set
 description: Celestial Champion Set relic from Taleara, Celestial Champion Helm, Celestial Champion Chestplate, Celestial Champion Leggings
-permalink: /celestialchampionset.html
+permalink: /celestialchampionset/
 favicon: /images/icons/starhat.png
 inventory_image: /images/celestialchampion/celestialchampionsetfull.webp
 info:
@@ -48,7 +48,7 @@ gallery:
 
 In-game description: None
 
-The Celestial Champion set is one of the two relic armor sets currently in Taleara, the other being the [Sunken Warrior Set](./sunkenwarriorset.html). It consists of the Celestial Champion Helm, Celestial Champion Chestplate, and Celestial Champion Leggings. The set is an ornate armor set with prominent golden trim. The chestplate and leggings have cloth sections that come in the defualt Star Red or Star Black, and can be recolored. 
+The Celestial Champion set is one of the two relic armor sets currently in Taleara, the other being the [Sunken Warrior Set](./sunkenwarriorset/). It consists of the Celestial Champion Helm, Celestial Champion Chestplate, and Celestial Champion Leggings. The set is an ornate armor set with prominent golden trim. The chestplate and leggings have cloth sections that come in the defualt Star Red or Star Black, and can be recolored. 
 
 <br>
 

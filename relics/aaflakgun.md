@@ -2,7 +2,7 @@
 layout: relic
 title: "A.A. Flak Gun"
 description: "A.A. Flak Gun relic from Taleara"
-permalink: /aaflakgun.html
+permalink: /aaflakgun/
 favicon: /images/icons/flakgun.png
 inventory_image: /images/flakgun/flakguninv.webp
 

@@ -2,7 +2,7 @@
 layout: relic
 title: Skai's Horns
 description: Skai's Horns relic from Taleara
-permalink: /skaishorns.html
+permalink: /skaishorns/
 favicon: /images/icons/horns.png
 inventory_image: /images/horns/hornsinv.webp
 info:

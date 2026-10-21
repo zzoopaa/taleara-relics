@@ -2,7 +2,7 @@
 layout: relic
 title: Gardener's Veil
 description: Gardener's Veil relic from Taleara
-permalink: /gardenersveil.html
+permalink: /gardenersveil/
 favicon: /images/icons/gardenersveil.png
 inventory_image: /images/gardenersveil/gardenersveilinv.webp
 info:

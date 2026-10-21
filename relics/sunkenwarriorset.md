@@ -2,7 +2,7 @@
 layout: relic
 title: Sunken Warrior Set
 description: Sunken Warrior Set relic from Taleara, including Sunken Warrior Helm, Sunken Warrior Chestplate, Sunken Warrior Legs
-permalink: /sunkenwarriorset.html
+permalink: /sunkenwarriorset/
 favicon: /images/icons/sunkenhat.png
 inventory_image: /images/sunkenwarrior/sunkenset.webp
 info:

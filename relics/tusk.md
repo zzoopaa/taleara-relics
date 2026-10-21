@@ -2,7 +2,7 @@
 layout: relic
 title: Tusk
 description: Tusk relic from Taleara
-permalink: /tusk.html
+permalink: /tusk/
 favicon: /images/icons/tusk.png
 inventory_image: /images/tusk/tuskinv.webp
 info:
@@ -38,7 +38,7 @@ gallery:
 
 ### Description
 
-Tusk appears to be a pink homunculous-like creature with unidentifiable appendages. It is one of the smallest relics, roughly a bit smaller than the player's head. As the player moves around, Tusk will follow while rotating in the air. Tusk is one of the two relics that is not recolorable, the other being [Headless Head](./headlesshead.html). This may change soon.
+Tusk appears to be a pink homunculous-like creature with unidentifiable appendages. It is one of the smallest relics, roughly a bit smaller than the player's head. As the player moves around, Tusk will follow while rotating in the air. Tusk is one of the two relics that is not recolorable, the other being [Headless Head](./headlesshead/). This may change soon.
 
 <br>
 

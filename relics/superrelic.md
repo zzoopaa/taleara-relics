@@ -2,7 +2,7 @@
 layout: relic
 title: Super Relics
 description: Super Relics in Taleara
-permalink: /superrelic.html
+permalink: /superrelic/
 favicon: /images/superrelic/superrelicsnake.png
 title_class: recolorable
 side_images:

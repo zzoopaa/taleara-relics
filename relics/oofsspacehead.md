@@ -2,7 +2,7 @@
 layout: relic
 title: Oof's Space Head
 description: Oof's Space Head relic from Taleara
-permalink: /oofsspacehead.html
+permalink: /oofsspacehead/
 favicon: /images/icons/oofsspacebubblenewicon.png
 inventory_image: /images/spacehead/oofspaceheadinvnew.webp
 info:

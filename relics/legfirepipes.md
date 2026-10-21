@@ -2,7 +2,7 @@
 layout: relic
 title: Leg Fire Pipes
 description: Leg Fire Pipes relic from Taleara
-permalink: /legfirepipes.html
+permalink: /legfirepipes/
 favicon: /images/icons/legfirepipes.png
 inventory_image: /images/legfirepipes/firepipesinv.webp
 info:

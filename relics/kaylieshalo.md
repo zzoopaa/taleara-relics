@@ -2,7 +2,7 @@
 layout: relic
 title: Kaylie's Halo
 description: Kaylie's Halo relic from Taleara
-permalink: /kaylieshalo.html
+permalink: /kaylieshalo/
 favicon: /images/icons/halo.png
 inventory_image: /images/halo/haloinv.webp
 info:

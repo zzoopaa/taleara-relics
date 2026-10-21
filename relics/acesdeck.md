@@ -2,7 +2,7 @@
 layout: relic
 title: Ace's Deck
 description: Ace's Deck relic from Taleara
-permalink: /acesdeck.html
+permalink: /acesdeck/
 favicon: /images/icons/deck.png
 inventory_image: /images/deck/acesdeckinv.webp
 info:
